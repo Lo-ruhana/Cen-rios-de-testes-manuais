@@ -1,4 +1,4 @@
-# Cen-rios-de-testes-manuais
+# Testes manuais
 Testes sem refinamento técnico
 
 Cadastro de planetas 
